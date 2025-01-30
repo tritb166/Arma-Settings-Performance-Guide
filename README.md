@@ -109,7 +109,7 @@ Your setup may differ depending on where and how you have Steam installed
 6. Wait until steam finishes updating Arma 3
 7. Done
 
-![img](images/av2.jpg)
+![img](images/av2.png)
 
 ## ACE Volume
 <details>
@@ -121,7 +121,7 @@ A: ACE Volume
 -> Addon Options
 -> ACE Volume
 
-![img](images/av1.jpg)
+![img](images/av1.png)
 
 ^ My personal settings
 PART 2: Bind a key to toggle it manually!
