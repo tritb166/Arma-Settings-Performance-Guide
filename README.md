@@ -6,8 +6,6 @@ My settings and I have no issue with fps ever, and it looks much better than min
 For reference, my PC specs; i5 12600KF, RX 570 8GB (Old $100 gpu) RTX 3070 ($300), 32GB DDR4 3600 Mhz CL18, Arma on Crucial P5 Plus 1TB SSD, Mods on 2 TB HDD, Gigabyte M27Q 1440p 170 hz monitor
 
 ## Game Settings
-<details>
-<summary>Details</summary>
 
 - Texture you always want on very high bc some things like scopes will be inaccurate and also very blurry
 - Objects is just LOD i think, standard works fine
@@ -27,9 +25,9 @@ FXAA for screenshots, CMAA for better visibility
 
 If you still have low fps, turn off PIP, Dynamic Lights to low, then PPAA off, then Shadows off, then if that doesn't work, you'll have to turn down your sampling % until satisfactory
 
-More info
-
 [Performance Optimisation – Arma 3 - Bohemia Interactive Community (bistudio.com)](https://community.bistudio.com/wiki/Arma_3:_Performance_Optimisation#General)
+<details>
+<summary>Images</summary>
 
 ![img](images/settings1.png)
 ![img](images/settings2.png)
@@ -38,8 +36,7 @@ More info
 
 
 ## Launcher Parameters
-<details>
-<summary>Details</summary>
+
 What launcher parameters you use depend on your computers specs
 
 [Startup Parameters – Arma 3 - Bohemia Interactive Community (bistudio.com)](https://community.bistudio.com/wiki/Arma_3:_Startup_Parameters)
@@ -47,37 +44,39 @@ What launcher parameters you use depend on your computers specs
 [Releases · GoldJohnKing/mimalloc (github.com)](https://github.com/GoldJohnKing/mimalloc/releases)
 
 Custom memory allocator, claims to boost fps by up to 30%, ilbinek says he uses this on the TBD Event server (100-200 players)
+<details>
+<summary>Images</summary>
 
 ![img](images/launcher.png)
 </details>
 
 
 ## Performance / Profiling Build
-<details>
-<summary>Details</summary>
 
 > The Profiling Branch is a test bed for changes to the game that are client-side only and compatible with the main branch, primarily performance improvements.
 
 > There is no guarantee that there are no (game-breaking) issues on this branch, it is an experimental branch.
 
 Basically gives more fps, but is slightly less stable/mod compatible (very rare)
+<details>
+<summary>Images</summary>
 
 ![img](images/profiling.png)
 </details>
 
 
 ## Process Lasso
-<details>
-<summary>Details</summary>
+
 Process lasso reset my settings for arma, but just disabling hyperthreading on arma is what I had, maybe turn priority up to above normal
+
+<details>
+<summary>Images</summary>
 
 ![img](images/plasso.png)
 </details>
 
 
 ## Yet Another Arma Benchmark
-<details>
-<summary>Details</summary>
 
 [Steam Workshop::Yet Another Arma Benchmark (steamcommunity.com)](https://steamcommunity.com/sharedfiles/filedetails/?id=375092418)
 
@@ -91,6 +90,8 @@ Comments:
 - cpu "oc" = I changed my cpu settings in my bios, but I don't think it gained any performance at all (my mobo is locked)
 - gpu oc = power limit and memory timings maxed
 - better gpu oc = above + 100% fan curve
+<details>
+<summary>Images</summary>
 
 ![img](images/b1.png)
 ![img](images/b2.png)
@@ -124,8 +125,6 @@ Your setup may differ depending on where and how you have Steam installed
 7. Done
 
 ## ACE Volume
-<details>
-<summary>Details</summary>
 
 Q: I CAN'T HEAR ANYONE BECAUSE THE SHOOTING/VEHICLE IS TOO LOUD
 
@@ -133,6 +132,8 @@ A: ACE Volume
 (THIS WILL WORK FOR ALMOST EVERY SERVER THAT USES ACE)
 -> Addon Options
 -> ACE Volume
+<details>
+<summary>Images</summary>
 
 ![img](images/av1.png)
 
