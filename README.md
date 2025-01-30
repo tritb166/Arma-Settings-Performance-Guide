@@ -129,8 +129,11 @@ Your setup may differ depending on where and how you have Steam installed
 Q: I CAN'T HEAR ANYONE BECAUSE THE SHOOTING/VEHICLE IS TOO LOUD
 
 A: ACE Volume
+
 (THIS WILL WORK FOR ALMOST EVERY SERVER THAT USES ACE)
+
 -> Addon Options
+
 -> ACE Volume
 <details>
 <summary>Images</summary>
@@ -138,11 +141,17 @@ A: ACE Volume
 ![img](images/av1.png)
 
 ^ My personal settings
+
 PART 2: Bind a key to toggle it manually!
+
 -> Controls
+
 -> Configure Addons
+
 -> ACE Common
+
 -> Toggle Volume
+
 
 ![img](images/av2.png)
 
