@@ -1,9 +1,9 @@
 # Arma Settings Performance Guide
-Badly optimized missions will cause low fps no matter what you do
+*Badly optimized missions will cause bad performance no matter what you do*
+
 My settings and I have no issue with fps ever, and it looks much better than minimum settings, while having almost the same fps as minimum settings
 
-For reference; my PC specs: i5 12600KF, RX 570 8GB (Old $100 gpu) RTX 3070 ($300), 32GB DDR4 3600 Mhz CL18, Arma on Crucial P5 Plus 1TB SSD, Mods on 2 TB HDD, Gigabyte M27Q 1440p 170 hz monitor
-
+For reference, my PC specs; i5 12600KF, RX 570 8GB (Old $100 gpu) RTX 3070 ($300), 32GB DDR4 3600 Mhz CL18, Arma on Crucial P5 Plus 1TB SSD, Mods on 2 TB HDD, Gigabyte M27Q 1440p 170 hz monitor
 
 ## Game Settings
 <details>
@@ -28,20 +28,27 @@ FXAA for screenshots, CMAA for better visibility
 If you still have low fps, turn off PIP, Dynamic Lights to low, then PPAA off, then Shadows off, then if that doesn't work, you'll have to turn down your sampling % until satisfactory
 
 More info
+
 [Performance Optimisation – Arma 3 - Bohemia Interactive Community (bistudio.com)](https://community.bistudio.com/wiki/Arma_3:_Performance_Optimisation#General)
+
+![img](images/settings1.png)
+![img](images/settings2.png)
+![img](images/settings3.png)
 </details>
 
 
-## Launcher parameters
+## Launcher Parameters
 <details>
 <summary>Details</summary>
-... but depends on your computers specs
+What launcher parameters you use depend on your computers specs
 
 [Startup Parameters – Arma 3 - Bohemia Interactive Community (bistudio.com)](https://community.bistudio.com/wiki/Arma_3:_Startup_Parameters)
 
 [Releases · GoldJohnKing/mimalloc (github.com)](https://github.com/GoldJohnKing/mimalloc/releases)
 
 Custom memory allocator, claims to boost fps by up to 30%, ilbinek says he uses this on the TBD Event server (100-200 players)
+
+![img](images/launcher.png)
 </details>
 
 
@@ -55,14 +62,16 @@ Custom memory allocator, claims to boost fps by up to 30%, ilbinek says he uses 
 
 Basically gives more fps, but is slightly less stable/mod compatible (very rare)
 
+![img](images/profiling.png)
 </details>
 
 
 ## Process Lasso
 <details>
 <summary>Details</summary>
-
 Process lasso reset my settings for arma, but just disabling hyperthreading on arma is what I had, maybe turn priority up to above normal
+
+![img](images/plasso.png)
 </details>
 
 
@@ -75,13 +84,16 @@ Process lasso reset my settings for arma, but just disabling hyperthreading on a
 From stock to fully configured, I gained about 10% more fps on a very heavy benchmark, while also having less severe fps drops/stutter/lag
 
 Comments:
-params = launcher parameters on
-profiling = using profiling branch
-cold = 1st run usually gets lower fps
-warm = after 1st run
-cpu "oc" = I changed my cpu settings in my bios, but I don't think it gained any performance at all (my mobo is locked)
-gpu oc = power limit and memory timings maxed
-better gpu oc = above + 100% fan curve
+- params = launcher parameters on
+- profiling = using profiling branch
+- cold = 1st run usually gets lower fps
+- warm = after 1st run
+- cpu "oc" = I changed my cpu settings in my bios, but I don't think it gained any performance at all (my mobo is locked)
+- gpu oc = power limit and memory timings maxed
+- better gpu oc = above + 100% fan curve
+
+![img](images/b1.png)
+![img](images/b2.png)
 </details>
 
 
@@ -109,13 +121,12 @@ Your setup may differ depending on where and how you have Steam installed
 6. Wait until steam finishes updating Arma 3
 7. Done
 
-![img](images/av2.png)
-
 ## ACE Volume
 <details>
 <summary>Details</summary>
 
 Q: I CAN'T HEAR ANYONE BECAUSE THE SHOOTING/VEHICLE IS TOO LOUD
+
 A: ACE Volume
 (THIS WILL WORK FOR ALMOST EVERY SERVER THAT USES ACE)
 -> Addon Options
@@ -130,6 +141,10 @@ PART 2: Bind a key to toggle it manually!
 -> ACE Common
 -> Toggle Volume
 
+![img](images/av2.png)
+
 This is the App Menu key btw v (It's not commonly used) (Any other key will also work)
+
+![img](images/av3.png)
 </details>
 
