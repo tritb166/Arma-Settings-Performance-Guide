@@ -3,7 +3,13 @@
 
 My settings and I have no issue with fps ever, and it looks much better than minimum settings, while having almost the same fps as minimum settings
 
-For reference, my PC specs; i5 12600KF, RX 570 8GB (Old $100 gpu) RTX 3070 ($300), 32GB DDR4 3600 Mhz CL18, Arma on Crucial P5 Plus 1TB SSD, Mods on 2 TB HDD, Gigabyte M27Q 1440p 170 hz monitor
+For reference, my PC specs;
+- i5 12600KF
+- ~~RX 570 8GB (Old $100 gpu)~~ RTX 3070 ($300)
+- 32GB DDR4 3600 Mhz CL18
+- Arma on Crucial P5 Plus 1TB SSD
+- Mods on 2 TB HDD
+- Gigabyte M27Q 1440p 170 hz monitor
 
 ## Game Settings
 
