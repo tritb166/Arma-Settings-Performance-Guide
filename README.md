@@ -99,7 +99,9 @@ Comments:
 
 ## Symlink Guide
 20 seconds to main menu with no mods
+
 I have my game on my main ssd, then mods on my hdd
+
 To do it I made a symlink from
 > F:\SteamLibrary\steamapps\workshop\content\107410
 
