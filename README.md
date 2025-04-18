@@ -14,10 +14,10 @@ For reference, my PC specs;
 ## Game Settings
 
 - Texture you always want on very high bc some things like scopes will be inaccurate and also very blurry
-- Objects is just LOD i think, standard works fine
+- Objects is just LOD I think, standard works fine
 - Terrain you want between standard and very high
-- All shadow settings look basically the same, except anything more than low just uses more fps on things you cant see/wont notice
-- Idk what particles does, but id guess its bad bc arma particles are just laggy in general
+- All shadow settings look basically the same, except anything more than low just uses more fps on things you can't see/won't notice
+- Idk what particles does, but I guess it's bad because arma particles are just laggy in general
 - Clouds look the same on every settings, the higher ones just add more
 - PIP you want on standard if you can handle it, sometimes PIP can be very laggy though since its literally rendering everything multiple times
 (ultra is good for use in vehicles with PiP periscopes)
@@ -26,10 +26,11 @@ For reference, my PC specs;
 - AO probably off, it eats frames, but it can look nice, HDAO low is the fastest one, and they all look pretty similar
 - FSAA OFF, it devours frames more than PPAA, and does a worse job
 - PPAA on FXAA Standard or CMAA because those are the fastest, FXAA looks and performs slightly better
-FXAA for screenshots, CMAA for better visibility
+- FXAA for screenshots, CMAA for better visibility
 - Aniso Filtering on low, having it off looks bad, and anything higher barely makes a difference, but ultra is ok because it barely has any performance impact
 
 If you still have low fps, turn off PIP, Dynamic Lights to low, then PPAA off, then Shadows off, then if that doesn't work, you'll have to turn down your sampling % until satisfactory
+
 
 [Performance Optimisation – Arma 3 - Bohemia Interactive Community (bistudio.com)](https://community.bistudio.com/wiki/Arma_3:_Performance_Optimisation#General)
 <details>
