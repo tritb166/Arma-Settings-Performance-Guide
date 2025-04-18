@@ -166,3 +166,21 @@ This is the App Menu key btw v (It's not commonly used) (Any other key will also
 ![img](images/av3.png)
 </details>
 
+## PSA: DO NOT RAISE ANY VOLUME SETTINGS IN TEAMSPEAK
+
+If you cannot hear other people talking in Teamspeak, DO NOT raise the voice volume adjustment, +0.0 dB is the highest it's meant to go, ANY higher and it will INSTANTLY start clipping.
+
+If you want to raise the volume of Teamspeak, instead RAISE your WINDOWS volume, and LOWER your ARMA volume (either in game or in windows mixer).
+
+<details>
+<summary>Images</summary>
+
+Recommended Settings
+![img](images/ts1.png)
+
+I also recommend disabling ONLY these notification/soundpack settings, instead of muting all or keeping all open.
+It will remove the annoying "User joined your channel" sound, but every other notification will still play, which are much less frequent.
+![img](images/ts2.png)
+</details>
+
+
