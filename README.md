@@ -75,7 +75,9 @@ Basically gives more fps, but is slightly less stable/mod compatible (very rare)
 ## Process Lasso
 
 Process lasso is more likely to be useful if you are close to hitting your resource limit on your computer (100% CPU/RAM), otherwise, it could actually be detrimental to performance, but I have not done A/B testing.
+
 In case anyone wants to test it, please test with E cores enabled/disabled in bios, and process lasso on/off, then process lasso with and without hyperthreading.
+
 Process lasso reset my settings for arma, but just disabling hyperthreading on arma, maybe turn priority up to above normal.
 
 <details>
