@@ -114,7 +114,9 @@ Comments:
 ## Symlink Guide
 20 seconds to main menu with no mods
 
-I have my game on my main ssd, then mods on my hdd
+I have my game on my main 1TB SSD, then mods on my 2TB HDD.
+This is to save on SSD space, increases disk bandwidth, reduces loading times, and speeds up LOD loading (much less noticable low poly/texture objects).
+An SSD is not required for this, you should also get noticable improvements using a Symlink even with 2 seperate hard drives, as your disk bandwidth will be doubled.
 
 To do it I made a symlink from
 > F:\SteamLibrary\steamapps\workshop\content\107410
@@ -125,6 +127,8 @@ to
 
 ^ ssd
 Your setup may differ depending on where and how you have Steam installed
+
+I use [Link Shell Extension (schinagl.priv.at)](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html)
 
 
 ## How to clean your (unused) Arma 3 mods
