@@ -1,4 +1,4 @@
-# Arma Settings Performance Guide
+# Arma 3 Settings Performance Guide
 *Badly optimized missions will cause bad performance no matter what you do*
 
 My settings and I have no issue with fps ever, and it looks much better than minimum settings, while having almost the same fps as minimum settings
