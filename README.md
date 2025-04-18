@@ -116,7 +116,7 @@ Comments:
 
 I have my game on my main 1TB SSD, then mods on my 2TB HDD.
 
-This is to save on SSD space, increases disk bandwidth, reduces loading times, and speeds up LOD loading (much less noticable low poly/texture objects).
+This is to save on SSD space, increase disk bandwidth, reduce loading times, and speed up LOD loading (much less noticable low poly/texture objects).
 
 An SSD is not required for this, you should also get noticable improvements using a Symlink even with 2 seperate hard drives, as your disk bandwidth will be doubled.
 
